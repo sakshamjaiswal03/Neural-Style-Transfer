@@ -3,3 +3,4 @@ Neural Style Transfer (NST) is a computer vision technique that merges the conte
 
 In this project, NST is implemented by using the TensorFlow library. This project aims to provide artistic styles to the image.
 
+The dependecies used in this project is listed in .dependencies file.
