@@ -1,4 +1,4 @@
-**This file includes all the dependencies used**
+# This file includes all the dependencies used
 
   TensorFlow : version - "2.13.0-rc1"
   Numpy
